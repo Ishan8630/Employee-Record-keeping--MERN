@@ -1,0 +1,14 @@
+.Add {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  input {
+    width: 15em;
+    height: 3em;
+    font-size: 20px;
+    margin : 2em;
+  }
